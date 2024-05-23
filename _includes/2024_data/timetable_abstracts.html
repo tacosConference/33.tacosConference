@@ -25,6 +25,37 @@
     </div>
 </div>
 
+<div class="portfolio-modal modal fade" id="Hahn" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>
+                            Language Processing in Humans and Machines
+              </h2>
+                        <hr class="star-primary">
+                        <h3>Participants</h3>
+                        <p>Prof. Dr. Michael Hahn</p>
+                        <h3>Room</h3>
+                        <p>Room 1.17, C7.4</p>
+                        <h3>Slides</h3>
+                        <a download href="css/2024_style/slides/hahn.pdf">Hahn-Slides.pdf</a>
+                        <p>The field of Natural Language Processing (NLP) has displayed rapid progress, exemplified by large-scale language models such as ChatGPT, displaying striking capabilities and promising diverse applications. However, these systems remain 'black boxes', often failing in inexplicable ways, which hinders their reliability and trustworthiness in real-world applications. I will describe foundational research conducted in our lab that aims to address this challenge. First, to pinpoint limitations of existing systems, I will describe theoretical tools for analyzing the capabilities and limitations of the transformer architecture underlying modern language models. Second, in order to understand how machines could be made more human-like, I will describe new machine learning-based models of human language comprehension. I will conclude by outlining directions for future research.</p>
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <div class="portfolio-modal modal fade" id="Keynote-Pragmatic-Processing-in-Humans-and-Large-Language-Models" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-content">
         <div class="close-modal" data-dismiss="modal">
@@ -74,6 +105,8 @@
                         <p>Leonie Harter</p>
                         <h3>Room</h3>
                         <p>Room 2.07.1, A2.2</p>
+                        <h3>Slides</h3>
+                        <a download href="css/2024_style/slides/EqualGoesItLoose.pdf">EqualGoesItLoose.pdf</a>
                         <p>Auf Grund ihrer Nichtkompositionalität stellen Redewendungen (Idiome) immer noch eine Herausforderung für neuronale maschinelle Übersetzungsmodelle dar. Einige vorhergehende Arbeiten zu diesem Thema, die sich mit der Fähigkeit von Transformern zur Übersetzung von Redewendungen beschäftigen, schlagen vor, diese zu verbessern, indem parallel zum Übersetzen von der Quellsprache zur Zielsprache auch das Detektieren von Idiomen in den Quellsätzen trainiert wird. Daher teste ich in meiner Arbeit, ob dieser Multi-Task-Learning-Ansatz dem Transformer wirklich beim Übersetzen von Idiomen hilft. Dazu habe ich verschiedene Modelle entwickelt. Zwei Modelle trainieren einfach ein zusätzliches Teilmodul darauf, Idiome in den Quellsätzen zu finden. Basierend auf den Untersuchungsergebnissen von Dankers et al. zum Verhalten der Attentionmechanismen des Transformers, wenn dieser Idiome richtig übersetzt, habe ich zusätzlich vier weitere Modelle getestet, die die Ausgabe des Idiomtagging-Moduls verwenden, um die Attentionmuster entsprechend zu modifizieren. Im BLEU-Score übertreffen alle sechs Multi-Task-Learning-Modelle den Vanilla-Transformer auf meinen Testdaten, besonders die beiden Modelle, die die Cross-Attention zwischen Decoder und Encoder modifizieren. Beim Übersetzen von Idiomen übertreffen aber leider nur die beiden Modelle, die die Attentionmuster nicht modifizieren und eins der Cross-Attention-Modelle den Vanilla-Transformer.  Meine Ergebnisse lassen darauf schließen, dass die Idiomtagging-Module der anderen Modelle nicht gut genug aus den Silbertrainingsdaten, die ich für das Trainieren von Idiomerkennung erstellt habe, generalisieren können und die Verbesserung dieser Fähigkeit auch zur Verbesserung ihrer Idiomübersetzungen führen würde. </p>
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                     </div>
@@ -132,6 +165,8 @@
                         <p>Jan Kels</p>
                         <h3>Room</h3>
                         <p>Room 2.07.1, A2.2</p>
+                        <h3>Slides</h3>
+                        <a download href="css/2024_style/slides/TaCoS2024_KELS_slides.pptx">TaCoS2024_KELS_slides.pptx</a>
                         <p>Virtually all papers or "technical reports" for new (large) language models make claims about model performance across a variety of tasks. Coding ability is usually indicated by unit-test benchmarks like *HumanEval* or *MBPP*. Arriving at a single number to indicate a models ability to code comes with several pitfalls. We explore how common evaluations work and focus on their shortcomings.
                             Recent literature suggest several ideas on how these evaluations can be improved beyond generic problems. Finally we propose our own approach to evaluate models for code generation, which goes beyond functional correctness and investigates model creativity.
                             We hope to bring a greater understanding of these benchmarks by providing very illustrative examples and highlight trends.</p>
@@ -221,6 +256,8 @@
                         <p>Fedor Sizov</p>
                         <h3>Room</h3>
                         <p>Room 2.16, A2.2</p>
+                        <h3>Slides</h3>
+                        <a href="css/2024_style/slides/Revisiting NLTK-DRT.pdf" download>Revisiting NLTK-DRT.pdf</a>
                         <p>Under the supervision of Ivan Rygaev, I've improved and updated the "nltk-drt" project (Kislev, Makarov, Li 2010), focusing on extending support for Discourse Representation Theory (DRT) within NLTK for Python. I restored compatibility with Python 3.x, optimized the code, and migrated the test suite to pytest, getting 100% of tests working. Additionally, I enabled the definition of presupposition schemes via external grammars, facilitating the incorporation of new functionalities like it-clefts and factive verbs. Our improved extension is now available on GitHub, with plans to submit a high-quality pull request to integrate it into the nltk library, aiming to benefit the broader NLP open-source community.</p>
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                     </div>
