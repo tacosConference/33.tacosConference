@@ -1,0 +1,76 @@
+- company: "Association for Computation Linguistics, European Chapter"
+  thumbnail: EACL.png
+  website: https://eacl.org/
+
+- company: "Deutsche Gesellschaft für Sprachwissenschaft"
+  img: 
+  thumbnail: DGFS.png
+  subtitle:
+  description:
+  website: https://dgfs.de/
+  contact:
+
+- company: "Gesellschaft für Angewandte Linguistik e.V."
+  img: 
+  thumbnail: logo_gal.png
+  subtitle:
+  description:
+  website: https://gal-ev.de/
+  contact:
+
+- company: "Gesellschaft für Sprachtechnologie und Computerlinguistik"
+  img: 
+  thumbnail: GSCL.png
+  subtitle:
+  description:
+  website: https://www.gscl.org/
+  contact:
+
+- company: "Information Density and Linguistic Encoding (iDeaL)"
+  img:
+  thumbnail: iDeaL.png
+  subtitle:
+  description:
+  website: https://sfb1102.uni-saarland.de/
+  contact: contact
+
+- company: "Linguistik Portal für Sprachwissenschaft"
+  thumbnail: linguistik.png
+  website: https://linguistik.de/
+
+
+
+- company: "Narr Francke Attempto Verlag"
+  thumbnail: NARR.png
+  website: https://www.narr.de/
+
+- company: "RTG Neuroexplicit Models"
+  thumbnail: neuroexplicit.png
+  website: https://www.neuroexplicit.org/
+
+- company: "Der Niederlandst<br>*innenverband"
+  img: 
+  thumbnail: Niederlandist_innenverband.png
+  subtitle:
+  description:
+  website: https://www.niederlandistenverband.org/unser-verband/
+  contact:
+
+- company: "Universitätsgesellschaft<br>des Saarlandes"
+  thumbnail: UGDS.jpg
+  website: https://www.unigesellschaft-saarland.de/
+
+- company: "Friends of LST"
+  thumbnail: friends-of-lst.png
+  website: https://www.uni-saarland.de/aktuell/70-jahr-feier-angewandte-sprachwissenschaften-uebersetzen-und-dolmetschen-am-08122018-22174.html#:~:text=Organisation%3A%20Amicale%20%2D%20Friends%20of%20LST
+
+- company: "Multilinguality and Language Technology (DFKI)"
+  thumbnail: DFKI_Logo_MLT_en.png
+  website: https://www.dfki.de/en/web/research/research-departments/multilinguality-and-language-technology
+# - company: "TBD"
+#   img: 
+#   thumbnail: 
+#   subtitle: TBD
+#   description: TBD
+#   website: TBD
+#   contact: TBD

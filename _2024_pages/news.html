@@ -1,0 +1,32 @@
+---
+layout: 2024_default
+permalink: /news
+title: Recent News
+published: true
+---
+    <!--background color-->
+    <script type="text/javascript">
+        document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
+    </script>
+
+    <div class="event black-frame">
+      <h1 class="title" style="background-color: #{{ site.data.template.color.secondary-dark }}">{{ page.title }}</h1>
+
+      <p>Here's a list of previously posted news items.<p>
+        <l>
+            {% for news_data in site.data.twenty_24.news %}
+                <div class="timeline-panel">
+                    <div class="timeline-heading">
+                        <h4>{{ news_data.title }}</h4>
+                    </div>
+                    <div class="timeline-heading">
+                        <p class="text-muted">{{ news_data.text }}</p>
+                    </div>
+                    <!--<a href="{{ news_data.link }}" class="page-scroll btn btn-sm">Previous Updates</a>-->
+                </div>
+            {% endfor %}
+        </l>
+        <p>
+            Stay tuned for more updates!
+        </p>
+    </div>

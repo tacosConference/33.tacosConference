@@ -1,0 +1,62 @@
+- inverted:
+  img: tacos_2024_logo.png
+  title: Call for Participation Closed!
+  text: We have closed the Call for Participation and are in the last stages of finalizing the schedule. Stay tuned!
+  linktext: Previous Updates
+  link: /news
+
+# - inverted:
+#   img: tacos_2024_logo.png
+#   title: Call for Participation Extended!
+#   text: Wish you would have submitted a talk? Well, you still have time! The Call for Participation deadline has been extended until April 24th! Find out more <a href="/cfp">here</a>.
+#   linktext: Previous Updates
+#   link: /news
+
+# - inverted:
+#   img: tacos_2024_logo.png
+#   title: Call for Participation!
+#   text: Call for Participation is now open! Find out more <a href="/cfp">here</a>. It closes on March 24th.
+#   linktext: Previous Updates
+#   link: /news
+
+# - inverted:
+#   img: tacos_2024_logo.png
+#   title: Registration is open!
+#   text: We've opened registration for the upcoming 33. TaCoS conference! Are you interested? You can find the registration form <a href="https://anmeldung.stuts.de/tacos2024">here</a>. Registration closes on March 4th 2024.
+#   linktext: Previous Updates
+#   link: /news
+
+# TODO: LEAVE IT IN FOR WHEN YOU DEVELOP SEE MORE.
+# - inverted:
+#   img: tacos_2024_logo.png
+#   title: So it begins...
+#   text: We've begun organizing the 33rd TaCoS conference! Check back here for updates.
+#   linktext: Previous Updates
+#   link: /news
+
+#  - inverted: timeline-inverted
+#  img: tacos_2024_logo_circle.png
+#  title: Registration
+#  text: Unfortunately, attendance registration is not yet open. Please check back soon!
+#  linktext: Register here!
+#  link: /register
+
+#  - inverted: timeline-inverted
+#  img: icon-agenda.jpeg
+#  title: Agenda
+#  text: Check out the (preliminary) agenda
+#  linktext: Agenda
+#  link: /agenda
+
+#  - inverted: timeline-inverted
+#  img: icon-venue.jpeg
+#  title: Venue
+#  text: The conference will be held at the University of Duisburg-Essen, Campus Essen.
+#  linktext: Venue
+#  link: /venue
+
+#  - inverted: timeline-inverted
+#  img: booklet-icon.png
+#  name: Sponsor Booklet
+#  info: Interested in backing us? Download our sponsor booklet and reach out to us once it is available!
+#  link: ""

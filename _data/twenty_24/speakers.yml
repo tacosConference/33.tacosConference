@@ -1,0 +1,48 @@
+- title: "Vera Demberg"
+  name: name
+  subtitle: "Pragmatic Processing in Humans and Large Language Models"
+  img:
+  thumbnail: demberg.jpeg
+  alt: alt
+  topic: 
+  description: description
+  website: https://www.uni-saarland.de/lehrstuhl/demberg.html
+
+- title: "Michael Hahn"
+  name: TBD
+  subtitle: "Language Processing in Humans and Machines"
+  img: 
+  thumbnail: hahn.jpeg
+  alt: TBD
+  topic: TBD
+  description: TBD
+  website: https://www.mhahn.info/
+
+- title: "Simon Ostermann"
+  name: TBD
+  subtitle: "White Box & Black Box: Two Perspectives on Explainable Natural Language Processing"
+  img: 
+  thumbnail: ostermann.jpeg
+  alt: TBD
+  topic: TBD
+  description: TBD
+  website: https://simonost.github.io/home/
+
+- title: "Joseph van Genabith"
+  name: TBD
+  subtitle: "Measuring Spurious Correlation in Classification: ”Clever Hans” in Translationese"
+  img: 
+  thumbnail: van_genabith.jpeg
+  alt: TBD
+  topic: TBD
+  description: TBD
+  website: https://www.uni-saarland.de/lehrstuhl/genabith.html
+  
+#- title: Name
+#  name: Name-4
+#  subtitle: Position
+#  img: TBD.png
+#  thumbnail: TBD.png
+#  alt: Picture of TBD
+#  topic: Topic
+#  description: More Info
