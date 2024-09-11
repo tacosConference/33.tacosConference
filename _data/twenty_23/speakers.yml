@@ -1,0 +1,44 @@
+- title: Dr. Yulia Zinova
+  name: YuliaZinova
+  subtitle: Postdoctoral researcher
+  img: zinova.jpg
+  thumbnail: zinova.jpg
+  alt: Picture of Zinova
+  topic: Word Embeddings and Morphology - Do language models learns what linguists are describing?
+  description: Postdoctoral researcher and lecturer at Heinrich-Heine University. 
+
+- title: Dr. Killian Evang
+  name: KillianEvang
+  subtitle: Postdoctoral researcher
+  img: evang.jpg
+  thumbnail: evang.jpg
+  alt: Picture of Evang
+  topic: Semantic Roles for Semantic Parsing - Lessons Learned and Future Directions
+  description: In this talk I report on efforts to annotate a parallel Role and Reference Grammar treebank (RRGparbank) with semantic roles for verbs. I discuss the annotation scheme developed, the annotation process, and semantic parsing results. Finally, I highlight some problems with existing annotation schemes based on VerbNet, PropBank, FrameNet, and VerbAtlas, and sketch a new scheme that solves some of these problems.
+
+- title: Prof. Dr. Kevin Tang
+  name: KevinTang
+  subtitle: University Professor
+  img: tang.jpg
+  thumbnail: tang.jpg
+  alt: Picture of Tang
+  topic: Computational models in Parkinson's Disease research
+  description: Speech can be used as a non-invasive biomarker to capture fine changes in speech patterns in normal populations and individuals diagnosed with neuromotor disorders, such as Parkinson's Disease (PD). In this talk, I will demonstrate how computational models that are linguistically-informed can quantify acoustic and syntactic variations in PD patients.
+
+- title: Dr. Nurul Lubis
+  name: NurulLubis
+  subtitle: Postdoctoral researcher
+  img: lubis.jpg
+  thumbnail: lubis.jpg
+  alt: Picture of Lubis
+  topic: In progress
+  description: We are waiting for some more info on the topic, please check back later!
+  
+#- title: Name
+#  name: Name-4
+#  subtitle: Position
+#  img: TBD.png
+#  thumbnail: TBD.png
+#  alt: Picture of TBD
+#  topic: Topic
+#  description: More Info
